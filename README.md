@@ -1,9 +1,14 @@
-# Generador de Tareas
+# Webpack Starter
 
-Proyecto de JavaScript para generar un listado con tareas pendientes/completas.
+Este es el proyecto inicial para crear aplicaciones utilizando webpack.
 
 ### Notas:
-Proyecto basado en curso de JavaScript Moderno en Udemy por:
+Recuerden reconstruir los módulos de Node
 ```
-Fernando Herrera
+npm install
+```
+
+Y para construir el build, recueren:
+```
+npm run build
 ```
