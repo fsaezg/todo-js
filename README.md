@@ -1,14 +1,9 @@
-# Webpack Starter
+# Proyecto JavaScript Lista Tareas
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Proyecto para creación de tareas pendientes/completados
 
 ### Notas:
-Recuerden reconstruir los módulos de Node
+Este es un proyecto basado en el curso de JavaScript Moderno en Udemy por:
 ```
-npm install
-```
-
-Y para construir el build, recueren:
-```
-npm run build
+Fernando Herrera
 ```
